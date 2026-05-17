@@ -12,7 +12,7 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 
 # 2. Tool'u GitHub'dan indirin
-git clone [https://github.com/anka71/anka-tool-mep-site-kontrol-](https://github.com/anka71/anka-tool-mep-site-kontrol-)
+git clone https://github.com/anka71/anka-tool-mep-site-kontrol-(https://github.com/anka71/anka-tool-mep-site-kontrol-)
 
 # 3. Tool'un klasörüne giriş yapın
 cd anka-tool-mep-site-kontrol-
